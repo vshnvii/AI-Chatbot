@@ -1,10 +1,10 @@
-# 🧠 AI PDF Chatbot
+# AI PDF Chatbot
 
 An intelligent chatbot that reads your PDF documents and answers questions using LLMs (Groq + Hugging Face). Built with **Streamlit**, **LangChain**, and **FAISS**.
 
 ---
 
-## 🚀 Features
+## Features
 
 -  Upload any PDF document
 -  Uses Groq's `llama3-8b-8192` for answering questions
@@ -32,6 +32,9 @@ An intelligent chatbot that reads your PDF documents and answers questions using
 ```bash
 git clone https://github.com/your-username/AI-bot.git
 cd AI-bot
+get your own api key
+install dependencies "pip install -r requirements.txt"
+run app "streamlit run chatbot.py"
 
 
 
