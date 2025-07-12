@@ -1,6 +1,7 @@
 # AI Chatbot
 
 An intelligent chatbot that reads your PDF documents and answers questions using LLMs (Groq + Hugging Face). Built with **Streamlit**, **LangChain**, and **FAISS**.
+## Youtube Preview: https://youtu.be/n83EDMJ0Cr0
 
 ---
 
