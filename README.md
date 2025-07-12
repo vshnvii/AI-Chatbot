@@ -1,4 +1,4 @@
-# AI PDF Chatbot
+# AI Chatbot
 
 An intelligent chatbot that reads your PDF documents and answers questions using LLMs (Groq + Hugging Face). Built with **Streamlit**, **LangChain**, and **FAISS**.
 
